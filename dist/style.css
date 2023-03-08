@@ -1,0 +1,81 @@
+.navbar-collapse {
+  flex-basis : 100%;
+  flex-grow  : 1;
+  align-items: center;
+}
+
+.navbar-collapse .nav-item:hover {
+  background-color: #56548c;
+}
+
+.navbar-collapse {
+  margin-left: 40rem;
+}
+
+.hero-section {
+  background-color: #f0fff0;
+}
+
+.hero-content {}
+
+.hero-content h5 {
+  color : #FD511A;
+  width : 189px;
+  height: 24px;
+  left  : 205px;
+  top   : 178px;
+
+  font-family: 'Poppins';
+  font-style : normal;
+  font-weight: 400;
+  font-size  : 16px;
+  line-height: 24px;
+
+}
+
+.hero-content h1 {
+  width : 405px;
+  height: 140px;
+  left  : 205px;
+  top   : 212px;
+
+  font-family: 'Poppins';
+  font-style : normal;
+  font-weight: 700;
+  font-size  : 48px;
+  line-height: 70px;
+  /* or 146% */
+  color      : #000000;
+}
+
+.hero-content p {
+  width : 403px;
+  height: 85px;
+  left  : 205px;
+  top   : 371px;
+
+  font-family: 'Poppins';
+  font-style : normal;
+  font-weight: 400;
+  font-size  : 16px;
+  line-height: 36px;
+  /* or 225% */
+}
+
+.btn-custom {
+  text-decoration : none;
+  color           : #FFFFFF;
+  background-color: #21B573;
+  border          : 1px solid #21B573;
+  padding-left    : 15px;
+  padding-right   : 15px;
+  padding-top     : 3px;
+  padding-bottom  : 3px;
+  border-radius   : 20px;
+
+}
+
+.feature-content {
+  margin          : 2rem;
+  background-color: #F8FFFB;
+}
